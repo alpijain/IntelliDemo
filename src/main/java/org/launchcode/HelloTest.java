@@ -4,6 +4,6 @@ public class HelloTest {
 
     public static void main()
     {
-        System.out.println("Hello world");//gg
+        System.out.println("Hello world");//gghello
     }
 }
