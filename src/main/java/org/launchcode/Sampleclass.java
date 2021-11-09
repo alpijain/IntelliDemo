@@ -10,7 +10,10 @@ public class Sampleclass {
         sum=a+b;
         System.out.println(sum);
 
+    }
 
-
+    public void display()
+    {
+        System.out.println("bugfix");
     }
 }
